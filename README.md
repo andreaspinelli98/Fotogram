@@ -1,12 +1,18 @@
 # Fotogram
 Progetto realizzato per il corso di Mobile Computing (a.a. 2025/26).
 
-Prototipo di client Android per un social network basato sulla condivisione
-di immagini. Sviluppato in Kotlin e Jetpack Compose, con Mapbox per la
-gestione delle mappe. Sviluppato con Android Studio.
+Prototipo di client Android per un social network basato sulla condivisione di immagini. Sviluppato in Kotlin e Jetpack Compose, con Mapbox per la gestione delle mappe. Sviluppato con Android Studio.
 
-![Bacheca](docs/screenshots/Bacheca.png) ![Mappa](docs/screenshots/Mappa.png)
-![CreaPost](docs/screenshots/CreaPost.png) ![Profilo](docs/screenshots/Profilo.png)
+<table>
+  <tr>
+    <td><img src="docs/screenshots/Bacheca.png" width="200"/></td>
+    <td><img src="docs/screenshots/Mappa.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/CreaPost.png" width="200"/></td>
+    <td><img src="docs/screenshots/Profilo.png" width="200"/></td>
+  </tr>
+</table>
 
 ## Feature principali
 - Registrazione e login
