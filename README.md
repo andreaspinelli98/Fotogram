@@ -32,4 +32,4 @@ Prototipo di client Android per un social network basato sulla condivisione di i
 ## Setup
 - Android Studio
 - minSdk 36 / targetSdk 36
-- Richiede una API key Mapbox da inserire in res/values/mapbox_access_token.xml
+- Richiede una API key Mapbox 
